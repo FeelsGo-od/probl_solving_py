@@ -9,9 +9,9 @@ cProfile.run('sum()')
 Ordered by: standard name:
 
 For example, if there are functions named function_A,
- function_B, and function_C, they will appear in 
- the profiling results in alphabetical order: 
- function_A, function_B, function_C.
+function_B, and function_C, they will appear in 
+the profiling results in alphabetical order: 
+function_A, function_B, function_C.
 
 -----------------------------------------------
 
